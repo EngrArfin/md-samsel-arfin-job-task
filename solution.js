@@ -1,4 +1,3 @@
-// Global variables as required
 const url = "YOUR_GOOGLE_SPREADSHEET_URL";
 const startDate = "01-01-2023";
 const endDate = "07-01-2023";

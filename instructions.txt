@@ -1,0 +1,8 @@
+Here i write how  can Run:
+-Install Node.js and npm.
+-Install dependencies using: npm install axios moment
+-Replace placeholders in the code with your spreadsheet URL and API key.
+-Run the program using: node solution.js
+
+Output:
+The program will display the best day to save in the console.
